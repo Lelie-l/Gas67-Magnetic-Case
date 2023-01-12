@@ -4,3 +4,7 @@ Plate is not included, but might be added in a later update since I might want t
 Skeletonized case will be available in a bit also.
 
 Free to use. Can be used for commercial uses, I don't care.
+.STEP files provided if you want to modify the case for a screw-full design.
+Made in F360, might be diagnostically useful in case you encounter a problem.
+
+Any problems or questions, please contact Leliel#5659 on Discord.
